@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Boiler Predictive Maintenance with Edge Impulse and Opla IOT Kit 
 
 Describe your project
 
